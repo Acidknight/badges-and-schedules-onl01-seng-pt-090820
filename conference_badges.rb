@@ -11,11 +11,7 @@ def batch_badge_creator(array)
 end
 
 def assign_rooms(speaker)
-  room = 0 
-  speaker.collect do |name|
-    room += 1 
-    "Hello, #{name}! You'll be assigned to room #{room}!"
-  end
+  
 end
 
 def printer
