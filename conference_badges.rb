@@ -12,6 +12,7 @@ end
 
 def assign_rooms(speaker)
   new_array = []
+  speaker.each_with_index
 end
 
 def printer
