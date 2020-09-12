@@ -18,6 +18,6 @@ def assign_rooms(speaker)
   new_array
 end
 
-def printer
-  batch_badge_creator
+def printer(attendees)
+  batch_badge_creator(attendees)
 end
