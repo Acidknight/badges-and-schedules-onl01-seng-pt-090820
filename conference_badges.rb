@@ -1,6 +1,6 @@
 
-def badge_maker(arel)
-  return "Hello, my name is #{arel}"
+def badge_maker(name)
+  return "Hello, my name is #{name}"
 end
 
 def batch_badge_creator
