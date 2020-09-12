@@ -12,7 +12,8 @@ end
 
 def assign_rooms(speaker)
   new_array = []
-  speaker.each_with_index do |name, i|
+  speaker.each_with_index do |name, room|
+    
 end
 
 def printer
