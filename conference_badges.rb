@@ -13,7 +13,7 @@ end
 def assign_rooms(speaker)
   room = 0 
   speaker.collect do |name|
-    
+    room += 1 
 end
 
 def printer
