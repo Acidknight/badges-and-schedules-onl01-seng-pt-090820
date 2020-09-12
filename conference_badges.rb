@@ -10,3 +10,4 @@ def assign_rooms
 def printer
 
 end
+end
