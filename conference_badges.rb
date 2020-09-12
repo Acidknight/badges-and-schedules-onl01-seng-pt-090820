@@ -7,6 +7,6 @@ conference_speakers = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Ma
 
 def assign_rooms
   
-  
+def printer
 
 end
